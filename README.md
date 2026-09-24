@@ -21,6 +21,6 @@
 │
 └── 📁 STEMS
     ├── 🎛️ Payaso x Ley - COSITA.stems.wav
-    ├── 🎛️ formato 
+    ├── 🎛️ formato 👇
     └── 🎛️ track.stems.wav
 ```
