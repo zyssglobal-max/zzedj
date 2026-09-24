@@ -1,6 +1,7 @@
 <div align="center">
   <img src="assets/img/zzedj.ico" alt="Z-NOS logo" width="100" height="100" /><br>
 <div>
+<div>
   
   <h1>zzedj • £ss€dj pro</h1>
 - Dj app multiplataforma ...
