@@ -6,4 +6,8 @@ Dj app multiplataforma ...
   <img src="assets/img/zzedj.ico" alt="Z-NOS logo" width="100" height="100" /><br>
   
   <h1>zeedj / essedj pro</h1>
-- Dj `app multiplataforma` ...
+- Dj app multiplataforma ...
+
+## 🧮 Vista previa
+
+<img src="assets/img/preview-appNtree.jpg" alt="n-tree-app" width="100%"/>
