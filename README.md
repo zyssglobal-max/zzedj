@@ -1,20 +1,20 @@
-n-tree-apptree-appmg src="assets/img/zzedj.ico" alt="Z-NOS logo" width="100" height="100" /><br>
+<img src="assets/img/zzedj.ico" alt="Z-NOS logo" width="100" height="100" /><br>
   
   <h1>zzedj • £ss€dj pro</h1>
 - Dj app multiplataforma ...
 
-🧮 Vista previa
+### 🧮 Vista previa
 
-<img src="assets/img/preview-app.jpg" alt="zzedj-app" width="100%"/>
+<img src="assets/img/preview-app.jpg" alt="n-tree-app" width="100%"/>
 
 ```text
-🎼 MI BIBLIOTECA
+🎼 HDD MUSICA
 │
 ├── 📁 MUSICA
-│   ├── 📁 Album_01
-│   │   ├── 🎵 01 - Cancion Uno.mp3
-│   │   └── 🎵 02 - Cancion Dos.mp3
-│   ├── 📁 Album_02
+│   ├── 📁 repa
+│   │   ├── 🎵 Cancion Uno.mp3
+│   │   └── 🎵 Cancion Dos.mp3
+│   ├── 📁 2026
 │   │   └── 🎵 01 - Otra Cancion.mp3
 │   ├── 🎵 Cancion Suelta 01.mp3
 │   ├── 🎵 Cancion Suelta 02.mp3
