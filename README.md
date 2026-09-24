@@ -4,6 +4,6 @@
   <h1>zeedj / essedj pro</h1>
 - Dj app multiplataforma ...
 
-### 🧮 Vista previa
+🧮 Vista previa
 
 <img src="assets/img/preview-app.jpg" alt="n-tree-app" width="100%"/>
