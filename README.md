@@ -11,7 +11,7 @@
 1. Primero selecciona tu carpeta de música.
 2. Selecciona tu carpeta de stems.
 3. Tu stems debe de terminar así:
-   - mismo nombre del track.stems.wav
+- mismo nombre del track.stems.wav
      
 ```text
 🎼 HDD
