@@ -10,4 +10,4 @@ Dj app multiplataforma ...
 
 ## 🧮 Vista previa
 
-<img src="assets/img/preview-appNtree.jpg" alt="n-tree-app" width="100%"/>
+<img src="assets/img/preview-app.jpg" alt="n-tree-app" width="100%"/>
