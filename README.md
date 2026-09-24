@@ -8,21 +8,19 @@
 <img src="assets/img/preview-app.jpg" alt="n-tree-app" width="100%"/>
 
 ```text
-🎼 HDD MUSICA
+🎼 HDD
 │
 ├── 📁 MUSICA
 │   ├── 📁 repa
 │   │   ├── 🎵 Payaso x Ley - COSITA.mp3
-│   │   └── 🎵 Cancion Dos.mp3
+│   │   └── 🎵 ...
 │   ├── 📁 2026
-│   │   └── 🎵 01 - Otra Cancion.mp3
-│   ├── 🎵 Cancion Suelta 01.mp3
-│   ├── 🎵 Cancion Suelta 02.mp3
-│   └── 🎵 Demo.mp3
+│   │   └── 🎵 ...
+│   ├── 🎵 test.mp3
+│   └── 🎵 demo.mp3
 │
 └── 📁 STEMS
     ├── 🎛️ Payaso x Ley - COSITA.stems.wav
-    ├── 🎛️ Cancion Dos.stems.wav
-    ├── 🎛️ Otra Cancion.stems.wav
-    └── 🎛️ Demo.stems.wav
+    ├── 🎛️ formato 
+    └── 🎛️ track.stems.wav
 ```
