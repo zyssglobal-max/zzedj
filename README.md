@@ -7,7 +7,7 @@
 
 <img src="assets/img/preview-app.jpg" alt="n-tree-app" width="100%"/>
 
-###Estructura de tus librerías
+### Estructura de tus librerías
 1. Primero selecciona tu carpeta de música.
 2. Selecciona tu carpeta de stems.
 3. Tu stems debe de terminar así:
@@ -30,3 +30,4 @@
     ├── 🎛️ formato 👇
     └── 🎛️ track.stems.wav
 ```
+* debes de recurrir a un programa de terceros para crear tu stems, por el .ome to solo separa la parte q más te guste para usar solo con precionar VKILL ...
